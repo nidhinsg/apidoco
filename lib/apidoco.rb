@@ -1,6 +1,6 @@
-require "apidoco/engine"
-require "angularjs-rails"
+require 'angularjs-rails'
 
-module Apidoco
-  # Your code goes here...
-end
+require 'apidoco/engine'
+require 'apidoco/folder_parser'
+
+module Apidoco; end

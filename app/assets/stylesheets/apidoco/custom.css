@@ -1,0 +1,29 @@
+div.sidebar-header {
+  margin-top: 5%;
+  margin-left: 6%;
+  font-size: 20px;
+}
+
+div.api-tree {
+  margin-top: 5%;
+}
+
+div.api-tree span {
+  font-size: 15px;
+}
+
+.api_details {
+  border: 5px solid beige;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: seashell;
+  margin-bottom: 20px;
+}
+
+#page-content-wrapper {
+  background-color: slategray
+}
+
+.text_wheat {
+  color: wheat;
+}
